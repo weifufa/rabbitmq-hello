@@ -13,7 +13,7 @@ import java.util.Map;
  */
 public class Producer {
     //队列名称
-    public static final String QUEUE_NAME="hello";
+    public static final String QUEUE_NAME="mirror_hello";
     //发消息
     public static void main(String[] args) throws Exception {
         //创建一个连接工厂

@@ -15,7 +15,7 @@ public class Consumer {
     public static void main(String[] args) throws Exception{
         //创建连接工厂
         ConnectionFactory factory=new ConnectionFactory();
-        factory.setHost("120.78.161.41");
+        factory.setHost("192.168.111.101");
         factory.setUsername("admin");
         factory.setPassword("123456");
         Connection connection = factory.newConnection();

@@ -19,7 +19,7 @@ public class Producer {
         //创建一个连接工厂
         ConnectionFactory factory=new ConnectionFactory();
         //工厂Ip 连接RabbitMQ的队列
-        factory.setHost("120.78.161.41");
+        factory.setHost("192.168.111.100");
         //用户名
         factory.setUsername("admin");
         //密码

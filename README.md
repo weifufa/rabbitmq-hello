@@ -1,1 +1,1 @@
-# rabbitmq的小demo
+# rabbitmq demo
